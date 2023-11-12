@@ -1,17 +1,19 @@
 
 <h1 align="center">HEY, I'M TUX MACGIVER <img src="https://emojis.slackmojis.com/emojis/images/1595173218/9723/dog_cool.gif?1595173218" width="30" margin-top="5"/></h1>
 
+<h4 align="center">
 <p align="center">
-
+ 
 <a href=https://www.instagram.com/syedsalmanahmed.saif><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href=https://www.facebook.com/i.am.a.silent.killer.boy><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href=https://discord.com/users/757377929197125744><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
  
 </p>
+</h4>
 
-📫 Connect with me in your TELEGRAM ⬇
-```
-  <a href="@I_am_a_silent_killer"><img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram"></a>
+📫 Connect with me in your <a href="@I_am_a_silent_killer"><img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram"></a> ⬇
+```bash
+  @I_am_a_silent_killer
 ```
 
 

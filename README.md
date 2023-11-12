@@ -43,7 +43,6 @@
 <img src="https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 

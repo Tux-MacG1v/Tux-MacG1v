@@ -1,15 +1,12 @@
 
 <h1 align="center">HEY, I'M TUX MACGIVER <img src="https://emojis.slackmojis.com/emojis/images/1595173218/9723/dog_cool.gif?1595173218" width="30" margin-top="5"/></h1>
+
 <p align="center">
 
-<h4 align="center">
-
-<a href=https://www.instagram.com/syedsalmanahmed.saif target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="drowes" height="20" width="20" /></a>
-<a href=https://www.facebook.com/i.am.a.silent.killer.boy target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="drowes" height="20" width="20" /></a>
-<a href=https://discord.com/users/757377929197125744 target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="drowes" height="20" width="20" /></a>
-
-</h4>
-  
+<a href=https://www.instagram.com/syedsalmanahmed.saif><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href=https://www.facebook.com/i.am.a.silent.killer.boy><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href=https://discord.com/users/757377929197125744><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+ 
 </p>
 
 📫 Connect with me in your TELEGRAM ⬇

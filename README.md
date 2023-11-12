@@ -11,7 +11,7 @@
 </p>
 </h4>
 
-📫 Connect with me in your <a href="@I_am_a_silent_killer"><img src="https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram"></a> ⬇
+📫 Connect with me in your <a href="@I_am_a_silent_killer"><img src="https://img.icons8.com/?size=48&id=89386&format=png"></a> ⬇
 ```bash
   @I_am_a_silent_killer
 ```

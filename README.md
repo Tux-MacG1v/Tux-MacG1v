@@ -1,5 +1,5 @@
 
-<h1 align="center">HEY, I'M TUX MACGIVER <img src="https://emojis.slackmojis.com/emojis/images/1595173218/9723/dog_cool.gif?1595173218" width="30" margin-top="5"/></h1>
+<h1 align="center">HEY, I'M TUX MACGIVER <img src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" width="30" margin-top="5"/></h1>
 
 <h4 align="center">
 <p align="center">

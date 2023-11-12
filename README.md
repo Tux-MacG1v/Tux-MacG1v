@@ -7,7 +7,6 @@
 <a href=https://www.instagram.com/syedsalmanahmed.saif><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href=https://www.facebook.com/i.am.a.silent.killer.boy><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href=https://discord.com/users/757377929197125744><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href=https://discord.com/users/757377929197125744><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://t.me/I_am_a_silent_killer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
  
 </p>

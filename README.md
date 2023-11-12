@@ -39,7 +39,6 @@
 <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" />
-<img src="https://img.shields.io/badge/Zorin-0078D6?style=for-the-badge&logo=zorin&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />

@@ -23,7 +23,6 @@
 - 👋 Hi, I’m @Tux-MacG1v
 - 👀 I'm interested in machine learning, cybersecurity, AI, and blockchain.
 - 🌱 I'm presently studying Python and GO programming
-- 📫 How to reach me -https://t.me/I_am_a_silent_killer
 - ⚡ Always learning!
 
 ## Technologies
@@ -62,8 +61,4 @@
 
 ## Visitors
 <img align="center" src="https://count.getloli.com/get/@Tux-MacG1v?theme=asoul">
-
-
-## Most Used Languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tux-MacG1v&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="100%" /></p>
 

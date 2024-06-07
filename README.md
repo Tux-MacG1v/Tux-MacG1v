@@ -26,6 +26,7 @@
 
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Tux-MacG1v&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+
 ## Technologies
 
 <div>
@@ -51,14 +52,12 @@
 ---
 ## Stats
 
+
 <h4 align="center">
   <img src="https://komarev.com/ghpvc/?username=Tux-MacG1v&style=for-the-badge&color=red">
 </h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tux-MacG1v&show_icons=true&theme=tokyonight" align=right />
+<img src="https://github-readme-stats.vercel.app/api?username=Tux-MacG1v&show_icons=true&theme=tokyonight" align=left alt="Github stats">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tux-MacG1v&show_icons=true&theme=tokyonight" alt="Github stats"></img>
-</p>
-
-## Visitors
-<img align="center" src="https://count.getloli.com/get/@Tux-MacG1v?theme=asoul">
-
+<!--- Visitors
+<img align="center" src="https://count.getloli.com/get/@Tux-MacG1v?theme=asoul">--->

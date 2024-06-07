@@ -24,6 +24,8 @@
 - 🌱 I'm presently studying Python and GO programming
 - ⚡ Always learning!
 
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Tux-MacG1v&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 ## Technologies
 
 <div>
